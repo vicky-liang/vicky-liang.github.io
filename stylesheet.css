@@ -1,0 +1,46 @@
+h1{
+	color:#1A1A68;
+	font-size: 30px;
+	font-family:Julius Sans One;
+	font-style:bold;
+	text-align:center;
+}
+#navbar{
+	position: fixed;
+	top:10px;
+	left:100%;
+	margin-left:-200px;
+	font-size: 18px 
+	color:#1A1A68;
+	font-family:Cabin Condensed;
+}	
+img{
+	border: 1px solid white;
+        border-radius:50px;
+        display: block;
+        margin-left: auto;
+    	margin-right: auto;
+    	height: 100px;
+        width: 100px;
+   width: 3.25em;
+
+}
+h2{
+	color:#1A1A68;
+	font-family:Muli;
+	font-size: 18px
+}
+section{
+	color:#8686A6;
+	font-family:Cabin Condensed;
+}
+h3{
+	font-family:Muli;
+	color:#1A1A68;
+	font-size: 18px
+	}
+	section{
+		color:#8686A6;
+		font-family:Cabin Condensed;
+		}		
+	}
